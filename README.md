@@ -1,0 +1,2 @@
+# amazon
+amazon系のプログラム
