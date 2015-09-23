@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.search {
+  padding: 40px 15px;
+  text-align: center;
+}
+.add {
+  padding: 40px 15px;
+}
+.detail {
+  padding: 40px 15px;
+}
+.edit {
+  padding: 40px 15px;
+}
+.center {
+  text-align: center;
+}
